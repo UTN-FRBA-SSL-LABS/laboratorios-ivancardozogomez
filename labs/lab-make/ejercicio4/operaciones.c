@@ -1,5 +1,7 @@
 #include "operaciones.h"
 
+//funcion de sumar
+
 int sumar(int a, int b) {
     return a + b;
 }
